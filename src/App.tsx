@@ -27,6 +27,9 @@ function App() {
         <p>
           Laitetaan oma lause tähän huvikseen!!!
         </p>
+        <p>
+          Ja vielä toinen lause ja huutomerkkejä!!!
+        </p>
       </div>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
