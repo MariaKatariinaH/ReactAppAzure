@@ -30,6 +30,9 @@ function App() {
         <p>
           Ja vielä toinen lause ja huutomerkkejä!!!
         </p>
+        <p>
+          Kolmas lause!!!!!!!
+        </p>
       </div>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
